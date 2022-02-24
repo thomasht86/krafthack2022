@@ -2,7 +2,7 @@
 This is a repo to kickstart Sopra Steria and friends' effort in the Krafthack2022 March 7-8th.
 
 ## Background information
-This is copied/pasted from the Organizers page, but kept for convenience. 
+_(This is copied/pasted from the Organizers page, but kept for convenience.) _
 
 Norway has been called the “Green Battery” of Europe, with 90% of Norway’s total power production coming from hydropower.
 
@@ -57,3 +57,9 @@ The solutions will be judged according to model accuracy, design creativity, and
 * Model accuracy – How well does the solution work on a new data set?
 
 The jury will consist of experts from both discipline experts and data science.
+
+## Useful links
+* [HiFrancis introduction video (Highly recommended)](https://vimeo.com/user4882639/review/256603245/d504d1289e)
+* [How Francis turbines work (Youtube)](https://youtu.be/skQNf5_61Ps)
+* [HiFrancis (R&D project)](https://www.ntnu.edu/nvks/hifrancis)
+* [Deep Learning for Failure Prediction in Offshore Wind Turbines, master's thesis Thomas](https://drive.google.com/file/d/1LUsFMh03oc_f7dqJHRiJDogwdPVv-zlP/view?usp=sharing)
