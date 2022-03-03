@@ -63,3 +63,6 @@ The jury will consist of experts from both discipline experts and data science.
 * [How Francis turbines work (Youtube)](https://youtu.be/skQNf5_61Ps)
 * [HiFrancis (R&D project)](https://www.ntnu.edu/nvks/hifrancis)
 * [Deep Learning for Failure Prediction in Offshore Wind Turbines, master's thesis Thomas](https://drive.google.com/file/d/1LUsFMh03oc_f7dqJHRiJDogwdPVv-zlP/view?usp=sharing)
+
+## Useful libraries
+https://github.com/rob-med/awesome-TS-anomaly-detection
