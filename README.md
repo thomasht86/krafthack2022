@@ -66,3 +66,10 @@ The jury will consist of experts from both discipline experts and data science.
 
 ## Useful libraries
 https://github.com/rob-med/awesome-TS-anomaly-detection
+
+## Dev environment
+The files in .devcontainer-folder contains everything you need to quickly get an ML Dev environment set up. 
+Make sure you have Docker Desktop and VS Code with the "Visual Studio Code Remote - Containers"-extension installed. 
+If you clone this repository and open it in VS Code, you should then be able to press "Ctrl+Shift+P" and type "Rebuild in container" as shown below.
+![image](https://user-images.githubusercontent.com/24563696/156766671-358da91a-8634-49bd-8997-c92b8d344d46.png)
+Then you should be able to open a jupyter notebook with access to most of your favorite libraries, as a starting point.  
