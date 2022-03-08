@@ -1,3 +1,15 @@
+# Note for reviewers!
+There are a lot of notebooks in the repo. Many of them have something useful, and much is repeated between them. 
+Lucky for you we gathered the most useful insights and the code to generate the submitted predictions in one(!) notebook. 
+
+![image](https://user-images.githubusercontent.com/24563696/157195549-d07099c8-b1cd-4005-9693-8654bf152236.png)
+
+Ok. Enough teasing. 
+Here's the [link](https://github.com/thomasht86/krafthack2022/blob/main/notebooks/tht-rerf.ipynb)
+Hope something might be useful. 
+
+Thanks a lot for providing a super cool challenge. We had a blast!
+
 # Krafthack2022
 This is a repo to kickstart Sopra Steria and friends' effort in the Krafthack2022 March 7-8th.
 
