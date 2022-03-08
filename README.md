@@ -6,6 +6,7 @@ Lucky for you we gathered the most useful insights and the code to generate the 
 
 Ok. Enough teasing. 
 Here's the [link](https://github.com/thomasht86/krafthack2022/blob/main/notebooks/tht-rerf.ipynb)
+
 Hope something might be useful. 
 
 Thanks a lot for providing a super cool challenge. We had a blast!
